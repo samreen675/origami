@@ -1,0 +1,25 @@
+.title{
+    /* display: flex; */
+    text-align: center;
+    background-color: yellow;
+    /* justify-content: space-between; */
+}
+.title h1{
+    text-align: center;
+}
+.text{
+    text-align: center;
+    background-color:lime;
+}
+.item{
+    font-size: 20px;
+    font-family: cursive;   
+    width: 49%;
+    border: 1px solid black;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    
+}
